@@ -13,3 +13,13 @@ Cómo emplear el paquete Occupar y el código de Daniel Oesch para recodificar v
   	  Ver script "ESS Algunas técnicas de análisis"
   	1.7.  También podemos emplear el paquete Occupar para crear otros esquemas de clase
   	  Ver script "Otros esquemas de clase (EGP)"
+
+
+
+2.  Utilizando el sistema de clasificación del INE CNO-11 (o CNO94)
+   2.1.  Ver las correspondencias entre CNO-11 y CIUO08 (Isco08)
+        Archivo excel corr_cno11_ciuo08.xls
+   2.2.  Ver las correspondencias entre CNO-94 y CIUO88 (Isco88)
+        Archivo excel cno94_ciup88.xlsx
+3.  Comprobar si al utilizar 3 digitos los códigos cambian entre un esquema y otro, y así poder usar el paquete Occupar.
+4.  Se puede utilizar el esquema de Oesch con una variable de 2 digitos. Comprobar que los dos digitos de CNO y de CIUO sean equivalentes, para poder emplear esta opción.
