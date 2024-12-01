@@ -12,4 +12,4 @@ Cómo emplear el paquete Occupar y el código de Daniel Oesch para recodificar v
   	1.6.  Realizar diferentes técnicas de análisis
   	  Ver script "ESS Algunas técnicas de análisis"
   	1.7.  También podemos emplear el paquete Occupar para crear otros esquemas de clase
-  	  Ver script "ESS Otros esquemas de clase"
+  	  Ver script "Otros esquemas de clase (EGP)"
