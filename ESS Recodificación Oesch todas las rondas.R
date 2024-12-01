@@ -1,4 +1,4 @@
-library(occupar)
+library(occupar) #Abrimos el paquete Occupar para transformar las variables de Isco88 (de la Ronda 1 a la 5) en su código Isco08, y así poder emplear el código de Daniel Oesch para transformar estas avriables en un esquema operativo de clases ocupacionales.
 
 ess2.5.10$isco08b <- isco88to08(ess2.5.10$iscoco)
 ess2.5.10 <- ess2.5.10 %>%
@@ -71,8 +71,6 @@ library(dplyr)
 library(questionr)
 library(labelled)
 library(essurvey)
-set_email("my_registered@email.com")
-d <- import_rounds(6, format = "spss")
 
 #### Recode occupation variable (isco08 com 4-digit) for respondents
 

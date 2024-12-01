@@ -30,3 +30,4 @@ range(ess2.5.10$wkhtot, na.rm = T) #En esta línea pido el rango de la nueva var
 table(ess2.5.10$wrkctra)
 ess2.5.10$wrkctra[ess2.5.10$wrkctra %in% c(6, 7, 8, 9)] <- NA
 ess2.5.10$wrkctra_recoded <- ifelse(ess2.5.10$wrkctra %in% c(2, 3), 2, ess2.5.10$wrkctra)
+
