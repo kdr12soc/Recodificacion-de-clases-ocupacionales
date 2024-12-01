@@ -9,3 +9,8 @@ Cómo emplear el paquete Occupar y el código de Daniel Oesch para recodificar v
   	  Ver script "ESS Recodificación rondas con módulo trabajo"
   	1.5.  Ejecutar el código de Daniel Oesch
   	  Ver script "ESS Recodificación Oesch todas las rondas"
+<<<<<<< HEAD
+=======
+  	1.6.  Realizar diferentes técnicas de análisis
+  	  Ver script "ESS Algunas técnicas de análisis"
+>>>>>>> 36208cd333a49b0a85e53c574e27d96d25f32213
